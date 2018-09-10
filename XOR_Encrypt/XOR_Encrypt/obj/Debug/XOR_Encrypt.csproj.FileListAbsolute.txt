@@ -1,0 +1,7 @@
+C:\Users\shlou\source\repos\XOR_Encrypt\XOR_Encrypt\bin\Debug\XOR_Encrypt.exe.config
+C:\Users\shlou\source\repos\XOR_Encrypt\XOR_Encrypt\bin\Debug\XOR_Encrypt.exe
+C:\Users\shlou\source\repos\XOR_Encrypt\XOR_Encrypt\bin\Debug\XOR_Encrypt.pdb
+C:\Users\shlou\source\repos\XOR_Encrypt\XOR_Encrypt\obj\Debug\XOR_Encrypt.csprojResolveAssemblyReference.cache
+C:\Users\shlou\source\repos\XOR_Encrypt\XOR_Encrypt\obj\Debug\XOR_Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\shlou\source\repos\XOR_Encrypt\XOR_Encrypt\obj\Debug\XOR_Encrypt.exe
+C:\Users\shlou\source\repos\XOR_Encrypt\XOR_Encrypt\obj\Debug\XOR_Encrypt.pdb
